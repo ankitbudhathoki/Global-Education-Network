@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/0f69dcf0-d3b3-4c96-a15e-5b78590a0d8c)
 
 # SimpleEducationNetwork - Solidity Smart Contract
 
@@ -22,6 +23,8 @@ The SimpleEducationNetwork aims to revolutionize education by creating a decentr
 This contract is deployed on the Ethereum Rinkeby Testnet at the following address:
 
 **`0xfd40e32d9dd1f199f65eb98765c06262fe8c577b`**
+![image](https://github.com/user-attachments/assets/cd89f7bf-42e2-4008-8cc7-8031965570f0)
+
 
 You can interact with it using any Ethereum wallet or DApp browser, such as MetaMask.
 
